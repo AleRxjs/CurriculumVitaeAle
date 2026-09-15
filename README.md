@@ -1,24 +1,69 @@
-# CurriculumVitaeAle
-Curriculum Vitae del Ing. Tadeo Alejandro Rubiales Rojas 
-Carrera: Ingenieria en Sistemas Computacionales 
+# Curriculum Vitae — Ale
 
-Ingeniero enfocado en el desarrollo web frontend y arquitectura de bases de datos. Teniendo bases solidas 
-de la programacion orientada a objetos en Java. Experiencia en el desarrollo de frontend, teniendo especialidad en 
-la optimizacion de procesos.
+## Ing. Tadeo Alejandro Rubiales Rojas
 
-Formacion academica: Ingeniería en Sistemas Computacionales 
-Centro Universitario Hidalguense, Pachuca. Hgo.
+**Carrera:** Ingeniería en Sistemas Computacionales
 
-Habilidades tecnicas: Manejo del frontend, la optimizacion de procesos tecnicos, el conocimiento de la aarquitectura de las bases de datos 
-el uso de la programacion en java para cuallquier proyecto en conjunto. 
+---
 
-Lenguajes que manejo: Español, Ingles.
+### Perfil Profesional
 
-Areas de interes: Desarrollo de frontend creando interfaces que interesen al usuario, conectando las bases de datos teniendo un buen manejo 
-y control de base de datos. 
-Arquitectura de desarrollo de software poniendo en practica la Programacion Orientada a Objetos. 
-Proyectos Academicos o personales.
-Academicos: TianguiStore
-Personales: Desarrollo de Paginas web, de negocios pequeños y medianos
+Ingeniero enfocado en el desarrollo web **frontend** y la **arquitectura de bases de datos**. Cuento con bases sólidas de **programación orientada a objetos en Java** y experiencia en el desarrollo de frontend, con especial interés en la **optimización de procesos**.
 
-Desarrollador Java orientado a la arquitectura de software, modelado de bases de datos y optimización de procesos técnicos. Teniendo aprendizaje continuo y la resolución de problemas en entornos colaborativos de desarrollo web y de sistemas.
+---
+
+### Formación Académica
+
+- **Ingeniería en Sistemas Computacionales**
+- Centro Universitario Hidalguense
+- Pachuca, Hgo.
+
+---
+
+### Habilidades Técnicas
+
+- Desarrollo **Frontend**
+- Optimización de procesos técnicos
+- Arquitectura de bases de datos
+- Programación en **Java**
+- Programación Orientada a Objetos (**POO**)
+- Desarrollo de proyectos de software
+
+---
+
+### Lenguajes
+
+- Español
+- Inglés
+- 
+### Áreas de Interés
+
+- Desarrollo de **Frontend**, creando interfaces atractivas e intuitivas para el usuario.
+- Conexión, manejo y control de **bases de datos**.
+- Arquitectura de desarrollo de software.
+- Aplicación de la **Programación Orientada a Objetos**.
+- Desarrollo de proyectos académicos y personales.
+
+### Proyectos Académicos y Personales
+
+**Academicos:**
+- TianguiStore
+  
+**Personales:**
+- Desarrollo de páginas web para pequeños y medianos negocios.
+
+### Perfil de Desarrollo
+
+Desarrollador **Java** orientado a la arquitectura de software, modelado de bases de datos y optimización de procesos técnicos.
+
+- Aprendizaje continuo
+- Resolución de problemas
+- Trabajo en entornos colaborativos
+- Desarrollo web
+- Desarrollo de sistemas
+
+
+
+[Posteriormente trabajaré en](https://cdn-icons-png.flaticon.com/512/5968/5968863.png)](https://cdn-icons-png.flaticon.com/512/5968/5968863.png) <br>
+> Tadeo Alejandro Rubiales Rojas
+
